@@ -84,6 +84,8 @@ Desenvolvimento de funcionalidades principais, documentação e exemplos de uso,
 **Resultados:**
 A solução oferece uma maneira simplificada e eficaz de integrar sistemas com a API para NFe da NS Tecnologia, agilizando processos de emissão, cancelamento e correção de notas fiscais eletrônicas. A documentação clara e os exemplos de uso fornecem suporte para uma integração rápida e sem complicações.
 
-### 3. [buzzFeed](https://github.com/MayDayCaio/buzzFeed-angular)
+### 4. [buzzFeed](https://github.com/MayDayCaio/buzzFeed-angular)
 
 # Projeto do curso "Criando um Clone do BuzzFeed com Angular" da DIO.
+
+![Preview](https://github.com/MayDayCaio/buzzFeed-angular/raw/main/src/assets/images/preview.jfif)
