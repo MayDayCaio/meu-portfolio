@@ -19,7 +19,7 @@ O Lenovo Ideapad 3i, originalmente projetado para sistemas Windows, foi transfor
 **Características principais**
 
 * **Compatibilidade de hardware:** Abordou-se a compatibilidade de componentes específicos do Ideapad 3i com o macOS, garantindo que o sistema reconhecesse e utilizasse eficientemente todos os recursos disponíveis.
-[Image of Lenovo Ideapad 3i](https://7migliortech.com/img/le-8-migliori-notebook-per-hackintosh-1-.jpg)
+![Image of Lenovo Ideapad 3i](https://7migliortech.com/img/le-8-migliori-notebook-per-hackintosh-1-.jpg)
 * **Instalação personalizada:** Desenvolveu-se um processo de instalação personalizado, incluindo configurações específicas do bootloader, drivers e patches necessários para otimizar o desempenho e a estabilidade.
 * **Resolução de problemas:** Identificou-se e resolveu-se problemas comuns encontrados ao executar o macOS em hardware não Apple, oferecendo uma solução estável e funcional.
 * **Documentação detalhada:** Fornecida uma documentação abrangente que descreve o passo a passo do processo de transformação do Ideapad 3i em um Hackintosh, permitindo que outros usuários repliquem o procedimento.
@@ -45,7 +45,7 @@ A loja de conserto de telefones busca uma solução eficiente para gerenciar sua
 **Funcionalidades principais**
 
 * **Gestão de clientes:** Cadastro e acompanhamento de clientes, histórico de serviços prestados e informações de contato.
-[Image of Sistema de Gestão para Loja de Conserto de Telefones](https://raw.githubusercontent.com/RamonSilva20/mapos/master/docs/dashboard.png)
+![Image of Sistema de Gestão para Loja de Conserto de Telefones](https://raw.githubusercontent.com/RamonSilva20/mapos/master/docs/dashboard.png)
 * **Ordens de serviço:** Criação e rastreamento de ordens de serviço, incluindo status, peças utilizadas e histórico de reparos.
 * **Inventário de peças:** Controle de estoque de peças e acessórios, incluindo alertas de reabastecimento e relatórios de movimentação.
 * **Agendamento:** Capacidade de agendar reparos, proporcionando uma melhor organização do fluxo de trabalho.
@@ -55,4 +55,35 @@ A loja de conserto de telefones busca uma solução eficiente para gerenciar sua
 
 Ao finalizar este projeto, a loja de conserto de telefones terá uma solução de gestão totalmente integrada, simplificando processos, melhorando a eficiência operacional e proporcionando uma experiência aprimorada para clientes e funcionários. A customização do Mapos atenderá às necessidades específicas da loja, garantindo uma implementação eficaz e adaptada ao ambiente de negócios.
 
-Este projeto destaca a capacidade de utilizar plataformas existentes e adaptá-las para atender a requisitos específicos, demonstrando a flexibilidade
+Este projeto destaca a capacidade de utilizar plataformas existentes e adaptá-las para atender a requisitos específicos, demonstrando a flexibilidade de uso de projetos.
+
+### 3. [Emissor NFe](https://github.com/MayDayCaio/Emissor-NFe)
+
+# Sistema de emissão de notas fisca eletrônica 
+
+Descrição:
+Desenvolvimento de uma solução de integração com a API para emissão de Nota Fiscal Eletrônica (NFe) da NS Tecnologia. A biblioteca ns-nfe-node permite comunicação fácil e eficiente com a API, facilitando a emissão, cancelamento, carta de correção e inutilização de numeração de NFe, além de fornecer utilitários para consultas e operações adicionais.
+
+Funcionalidades Destacadas:
+
+* **Emissão de NFe:** Integração simplificada para emissão de NFe, com suporte para ambiente de produção e homologação.
+* **Cancelamento de NFe:** Facilidade na realização de cancelamentos de NFe, com opção de exibição do PDF do evento.
+* **Carta de Correção:** Envio de correções para NFe de forma rápida e eficiente.
+* **Inutilização de Numeração:** Implementação simplificada para inutilização de numeração de NFe.
+* **Utilitários:** Acesso a uma variedade de utilitários para consultas e operações complementares relacionadas à NFe.
+  
+**Tecnologias Utilizadas:**
+
+* Node.js 
+* JavaScript 
+* npm (Node Package Manager)
+
+**Contribuição:**
+Desenvolvimento de funcionalidades principais, documentação e exemplos de uso, além de garantir a integração adequada com a API da NS Tecnologia.
+
+**Resultados:**
+A solução oferece uma maneira simplificada e eficaz de integrar sistemas com a API para NFe da NS Tecnologia, agilizando processos de emissão, cancelamento e correção de notas fiscais eletrônicas. A documentação clara e os exemplos de uso fornecem suporte para uma integração rápida e sem complicações.
+
+### 3. [buzzFeed](https://github.com/MayDayCaio/buzzFeed-angular)
+
+# Projeto do curso "Criando um Clone do BuzzFeed com Angular" da DIO.
